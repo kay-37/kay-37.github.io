@@ -84,7 +84,22 @@ Analyses Gross NPL Ratio, Loan Loss Coverage and Liquidity Ratio.
 ### 5. Executive Recommendations
 
 Translates analytical findings into management actions.
+## Dashboard Preview
 
+### Executive Overview
+![Executive Overview](Research/Screenshots/executive-overview.png)
+
+### Balance Sheet Analysis
+![Balance Sheet Analysis](Research/Screenshots/balance-sheet-analysis.png)
+
+### Profitability Analysis
+![Profitability Analysis](Research/Screenshots/profitability-analysis.png)
+
+### Risk & Financial Resilience
+![Risk Analysis](Research/Screenshots/risk-analysis.png)
+
+### Executive Recommendations
+![Executive Recommendations](Research/Screenshots/executive-recommendations.png)
 ## Key Findings
 
 - Total Assets increased by 202.1% between FY2020 and FY2024.
