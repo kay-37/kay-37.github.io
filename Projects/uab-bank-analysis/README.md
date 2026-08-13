@@ -63,22 +63,27 @@ UAB Bank published annual reports and financial statements.
 - Loan Loss Coverage Ratio
 - Liquidity Ratio
 
-## Dashboard Preview
+## Dashboard Structure
 
-### Executive Overview
-![Executive Overview](Research/Screenshots/executive-overview.png)
+### 1. Executive Overview
 
-### Balance Sheet Analysis
-![Balance Sheet Analysis](Research/Screenshots/balance-sheet-analysis.png)
+Provides a high-level management view of financial performance and key banking KPIs.
 
-### Profitability Analysis
-![Profitability Analysis](Research/Screenshots/profitability-analysis.png)
+### 2. Balance Sheet Analysis
 
-### Risk & Financial Resilience
-![Risk Analysis](Research/Screenshots/risk-analysis.png)
+Analyses Total Assets and Shareholders' Equity growth.
 
-### Executive Recommendations
-![Executive Recommendations](Research/Screenshots/executive-recommendations.png)
+### 3. Profitability Analysis
+
+Examines Operating Income, Operating Expenses, Profit After Tax and profitability ratios.
+
+### 4. Risk & Financial Resilience
+
+Analyses Gross NPL Ratio, Loan Loss Coverage and Liquidity Ratio.
+
+### 5. Executive Recommendations
+
+Translates analytical findings into management actions.
 
 ## Key Findings
 
