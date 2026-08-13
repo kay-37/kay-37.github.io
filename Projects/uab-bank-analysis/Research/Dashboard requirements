@@ -1,0 +1,83 @@
+# Dashboard Requirements
+
+## Page 1 — Executive Overview
+
+Purpose
+
+Provide an overall assessment of UAB Bank's financial performance.
+
+KPIs
+
+- Total Assets
+- Customer Deposits
+- Customer Loans
+- Profit After Tax
+- ROAA
+- ROAE
+- Gross NPL Ratio
+
+Visuals
+
+- KPI Cards
+- Five-Year Trend Analysis
+- Year-over-Year Growth
+
+---
+
+## Page 2 — Financial Position
+
+Purpose
+
+Evaluate the bank's balance sheet performance.
+
+Visuals
+
+- Assets
+- Liabilities
+- Equity
+- Growth Trends
+
+---
+
+## Page 3 — Profitability
+
+Purpose
+
+Evaluate financial performance.
+
+Visuals
+
+- Operating Income
+- Operating Expenses
+- Profit After Tax
+- ROAA
+- ROAE
+
+---
+
+## Page 4 — Risk Analysis
+
+Purpose
+
+Assess financial resilience.
+
+Visuals
+
+- Gross NPL Ratio
+- Loan Loss Coverage
+- Liquidity Ratio
+
+---
+
+## Page 5 — Executive Recommendations
+
+Purpose
+
+Present business insights and strategic recommendations based on the financial analysis.
+
+Deliverables
+
+- Key Findings
+- Business Risks
+- Growth Opportunities
+- Strategic Recommendations

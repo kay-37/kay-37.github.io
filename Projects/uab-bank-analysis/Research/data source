@@ -1,0 +1,39 @@
+# Data Sources
+
+## Primary Source
+
+United Amara Bank (UAB) Annual Reports and published financial statements.
+
+## Reporting Period
+
+FY2020–FY2024
+
+## Data Used
+
+The analysis uses publicly disclosed UAB financial information covering:
+
+- Total Assets
+- Shareholders' Equity
+- Customer Deposits
+- Customer Loans
+- Operating Income
+- Operating Expenses
+- Profit Before Tax
+- Profit After Tax
+- ROAA
+- ROAE
+- Gross NPL Ratio
+- Loan Loss Coverage Ratio
+- Liquidity Ratio
+
+## Purpose
+
+The data was used to develop the UAB Executive Financial Performance Dashboard in Power BI and answer the defined business questions relating to growth, profitability, asset quality and financial resilience.
+
+## Data Preparation
+
+The source information was consolidated into a structured dataset for analysis. Data types were standardised and financial metrics were prepared for visualisation in Power BI.
+
+## Data Limitation
+
+Not all financial statement line items are disclosed consistently across the full FY2020–FY2024 period. Therefore, the dashboard uses metrics with sufficiently consistent disclosure across the analysis period and does not estimate missing values.

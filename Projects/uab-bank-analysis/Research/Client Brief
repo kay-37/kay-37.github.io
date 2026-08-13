@@ -1,0 +1,50 @@
+# Client Brief
+
+## Background
+
+United Amara Bank (UAB) publishes annual financial reports containing detailed financial information. However, management requires a more interactive way to monitor performance trends, compare reporting periods and communicate insights efficiently.
+
+## Problem Statement
+
+Financial information is presented in static reports, making it time-consuming to compare performance, identify trends and support executive decision-making. Management needs a consolidated view of financial performance, balance-sheet growth, profitability and financial resilience.
+
+## Project Objective
+
+Develop an Executive Financial Performance Dashboard in Power BI using UAB Bank's published financial statements to support evidence-based decision-making.
+
+## Scope
+
+The dashboard analyses:
+
+- Financial Position
+- Financial Performance
+- Profitability
+- Asset Quality
+- Liquidity
+- Key Banking KPIs
+
+Key metrics include:
+
+- Total Assets
+- Customer Deposits
+- Customer Loans
+- Operating Income
+- Operating Expenses
+- Profit After Tax
+- ROAA
+- ROAE
+- Gross NPL Ratio
+- Loan Loss Coverage
+- Liquidity Ratio
+
+## Expected Outcome
+
+The dashboard will enable executives to:
+
+- Monitor financial performance
+- Identify long-term trends
+- Evaluate profitability
+- Assess asset quality
+- Monitor liquidity and financial resilience
+- Identify potential management risks
+- Support strategic planning and evidence-based decision-making

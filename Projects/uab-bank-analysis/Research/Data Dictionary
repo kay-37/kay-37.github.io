@@ -1,0 +1,18 @@
+# Data Dictionary
+
+| Field | Description | Source |
+|---|---|---|
+| Financial Year | Reporting year (FY2020–FY2024) | UAB Annual Report |
+| Total Assets | Total assets at year-end | Statement of Financial Position |
+| Shareholders' Equity | Total equity attributable to shareholders | Statement of Financial Position |
+| Customer Deposits | Total deposits received from customers | Statement of Financial Position |
+| Customer Loans | Loans and advances to customers | Statement of Financial Position |
+| Operating Income | Total operating income for the financial year | Statement of Profit or Loss |
+| Operating Expenses | Total operating expenses for the financial year | Statement of Profit or Loss |
+| Profit Before Tax | Profit before taxation | Statement of Profit or Loss |
+| Profit After Tax | Net profit after taxation | Statement of Profit or Loss |
+| ROAA | Return on Average Assets; measures profitability relative to average assets | Financial Highlights |
+| ROAE | Return on Average Equity; measures returns generated on shareholders' equity | Financial Highlights |
+| Gross NPL Ratio | Percentage of loans classified as non-performing | Financial Highlights |
+| Loan Loss Coverage Ratio | Provision coverage for non-performing loans | Financial Highlights |
+| Liquidity Ratio | Regulatory liquidity ratio | Financial Highlights |
